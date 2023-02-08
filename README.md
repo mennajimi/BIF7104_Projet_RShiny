@@ -1,4 +1,17 @@
-# Projet-Rshiny
+# BIF7104_Projet-Rshiny
+
+<h4> Description du projet: </h4> 
+
+Projet effectué en équipe avec Sofia Fassi Fehri dans le cadre du cours BIF7104- Bioinformatique et
+sciences de la santé:
+Développement d’une application R shiny pour la visualisation de données RNA-seq
+Permettra de produire des graphes/analyses :
+- PCA : détection des outliers, pouvoir les enlever
+- heatmap : personnaliser au maximum
+- volcano plot : choix des seuils significatifs
+- analyse enrichissement Gene Ontology / pathway g:profiler
+À partir des résultats de DESeq2
+
 
 <h4> Setup pour git: </h4> 
 1) Créer un compte github
